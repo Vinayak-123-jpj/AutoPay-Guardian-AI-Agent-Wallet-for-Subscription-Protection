@@ -1,0 +1,5 @@
+{
+  "name": "AutoPay Guardian",
+  "description": "An autonomous AI agent wallet that manages recurring subscriptions, enforces spending policies, and prevents unwanted charges through intelligent decision-making.",
+  "requestFramePermissions": []
+}
